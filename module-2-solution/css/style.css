@@ -22,13 +22,12 @@ section {
 	color: blue; 
 	background-color: white;
 	padding: 5px; 
-	<-- border: 1px solid black; -->
+	border: 1px solid black;
 	width: 160px;
 	margin-left: auto; 
 	margin-top: auto; 
 	text-align: center;
-	border-bottom: 5px solid black;
-    border-left: 5px solid black;
+	
 
 }
 
